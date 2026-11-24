@@ -4,6 +4,8 @@
 
 **Bộ khởi động tiếng Việt cho Claude Code: làm đúng hơn, tốn ít token hơn, cài bằng 1 lệnh.**
 
+Một dự án của [Ai-Support.Top](https://ai-support.top), nơi hỗ trợ sử dụng AI cho người Việt.
+
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue)
 ![Platform: Windows](https://img.shields.io/badge/platform-Windows-0078D6)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-skills-D97757)
@@ -178,6 +180,15 @@ Repo chỉ gồm file markdown, một file JSON và một script PowerShell ng�
 ## Đóng góp
 
 Mọi góp ý đều được chào đón qua [Issues](https://github.com/AISupportTop/claude-code-starter-vi/issues) hoặc Pull Request. Khi đề xuất thêm skill, vui lòng nêu: skill giải quyết vấn đề gì, vì sao không trùng với skill đã có, và nguồn gốc cùng giấy phép của skill.
+
+## Tác giả
+
+Repo do **[Ai-Support.Top](https://ai-support.top)** thực hiện. Ai-Support.Top là dự án hỗ trợ người Việt sử dụng AI vào công việc hằng ngày.
+
+- Website: [ai-support.top](https://ai-support.top)
+- GitHub: [@AISupportTop](https://github.com/AISupportTop)
+
+Nếu bộ skill có ích, hãy bấm ⭐ để nhiều người tìm thấy hơn.
 
 ## Ghi công và giấy phép
 
